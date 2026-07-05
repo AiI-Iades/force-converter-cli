@@ -1,2 +1,1 @@
-# force-converter-cli
-CLI tool for converting force units (N, lbf, dyn)
+# Force Converter CLI\nConvert between common force units like newtons (N), pounds-force (lbf), and dynes (dyn).\n\nUsage: `force-converter <value> <from-unit> <to-unit>`\nExample: `force-converter 10 N lbf`
